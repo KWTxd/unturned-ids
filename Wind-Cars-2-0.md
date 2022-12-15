@@ -647,3 +647,8 @@ The toolbox can be crafted using metal scraps and metal sheets and is used by al
 47068 - Fender Yellow
 
 47069 - Engine Blower
+
+#Eisenkern (other mod)
+Eisenkern - 17800
+Ammunition - 17802
+(vehicle turret) - 17801
