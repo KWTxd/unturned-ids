@@ -1,0 +1,695 @@
+Guns
+36002 Grenade Launcher
+36124 Moses
+36125 NP553 "Baal"
+36139 M349 "Penumbra"
+36150 F-11 "Fälscher"
+36331 Crossbow
+36335 Merlin
+36336 Herdsman
+36337 Herd
+36400 Devastator
+36451 NP9 "Kinnie"
+36465 SSB "Niku"
+36516 NP663 "Bruteforce"
+36519 Antique Moses
+36528 Flare Gun
+36534 N4 "Walnut"
+36557 K30 "Krizzy"
+36558 B18 "Block"
+36559 N200 "Brenter"
+36563 Bow
+36564 JK47 "Grill"
+36565 B50 "Instructor"
+36566 NP5 "Rattlesnake"
+36567 NP5 Suppressor
+36568 B1 "Blicky"
+36569 NP3 "Grit"
+36570 Sman
+36594 F-11 "Fälscher" [Black]
+36595 M349 "Penumbra" [Black]
+36596 K30 "Krizzy" [Black]
+36597 N4 "Walnut" [Camo]
+36598 N200 "Brenter" [Camo]
+36599 NP9 "Kinnie" [Camo]
+Magazines
+36014 57mm Shells [5nd]
+36130 7.62mm Magazine [8rnd]
+36131 7.62mm Box [16rnd]
+36140 5.56mm Box [100rnd]
+36151 5.56mm Drum [60rnd]
+36152 5.56mm Magazine [30rnd]
+36333 Wooden Arrow
+36334 Metal Arrow
+36452 9mm Magazine [20rnd]
+36453 9mm Box [40rnd]
+36454 9mm Drum [70rnd]
+36524 Buckshot [8rnd]
+36525 Slug [8rnd]
+36526 Makeshift Shells [4rnd]
+36527 Flare
+36560 Explosive Slug
+36571 40mm Grenade
+36604 12.7mm Cartridge
+Ammo Crates
+36325 9mm Ammo Crate [100rnd]
+36326 9mm Ammo Crate [40rnd]
+36327 5.56mm Ammo Crate [80rnd]
+36328 5.56mm Ammo Crate [40rnd]
+36329 7.62mm Ammo Crate [40rnd]
+36330 7.62mm Ammo Crate [60rnd]
+36603 12.7mm Box [10rnd]
+Stocks
+36127 Wooden Moses Stock
+36128 Refurbished Moses Stock [Tan]
+36129 Refurbished Moses Stock [Black]
+36142 M349 "Penumbra" Stock
+36450 F-11 "Fälscher" Stock
+36464 SSB "Niku" Stock
+36533 N4 "Walnut" Stock
+36536 N200 "Brenter" Stock
+36537 JK47 "Grill" Stock
+36538 K30 "Krizzy" Stock
+36539 NP5 "Rattlesnake" Stock
+36540 NP3 "Grit" Stock
+36550 RAID Stock
+36551 BVL Stock
+36552 B-3 Stock
+36553 REAPER Stock
+36554 DASH-2 Stock
+36555 K&R Stock
+36581 NP9 "Kinnie"Stock
+36606 BVL Stock [Black]
+36607 K&R Stock [Black]
+36608 REAPER Stock [Black]
+Barrels
+36143 RAID Muzzle Brake
+36144 BVL Muzzle Brake
+36145 B-3 Compensator
+36146 REAPER Compensator
+36147 DASH-2 Sound Suppressor
+36148 K&R Octagon Suppressor
+36149 K&R Decagon Suppressor
+36517 DASH-2 Shotgun Suppressor
+36518 BVL Choke
+Sights
+36126 NP553 "Baal" Iron Sights
+36141 M349 "Penumbra" Iron Sights
+36449 F-11 "Fälscher" Iron Sights
+36456 B-3 4x scope
+36457 RAID 6x scope
+36458 RAID 8x scope
+36459 DASH-2 Dot Sight
+36514 DASH-2 Holo Sight
+36541 N200 "Brenter" Iron Sights
+36542 K30 "Krizzy" Iron Sights
+36543 JK47 "Grill" Iron Sights
+36544 NP5 "Rattlesnake" Iron Sights
+36545 NP3 "Grit" Iron Sights
+36547 Makeshift 5x Scope
+36548 Makeshift Sight
+36577 N4 "Walnut" Iron Sights
+Grips & Tacticals
+36440 Tactical Bayonet
+36441 Stubby Grip
+36442 RAID Bipod
+36443 RAID Bipod [Folded]
+36444 F-11 Bipod
+36445 F-11 [Folded]
+36446 REAPER Vertical Grip
+36447 K&R Horizontal Grip
+36448 BVL Tilted Grip
+36455 K&R Hand Stop
+36460 Tactical Light
+36461 Tactical Laser [Tan]
+36462 Tactical Rangefinder
+36463 Tactical Laser [Black]
+36546 Makeshift Grip
+36549 Makeshift Tactical Light
+36556 Block Upgrade Kit
+Melee
+36028 Axe
+36029 Wooden Pickaxe
+36030 Wooden Axe
+36032 Pickaxe
+36038 Chainsaw
+36039 Jackhammer
+36086 Saw
+36367 Flashlight
+36374 Frying Pan
+36375 Officers Sword
+36376 Saucepan
+36377 Hunting Knife
+36378 Field Knife
+36379 Broom
+36380 Nightstick
+36381 Baton
+36382 Chef's Knife
+36395 Bone Saw
+36396 Snow Shovel
+36410 Axe
+36413 Drill
+36582 Cotton Swab
+36583 Q-Tip
+Hats
+36043 Military Helmet
+36053 Police Helmet
+36106 Navy Beret
+36107 Black Beret
+36108 Green Beret
+36109 Orange Beret
+36110 Pink Beret
+36111 Red Beret
+36112 White Beret
+36113 Yellow Beret
+36114 Blue Beret
+36115 Aqua Beret
+36116 Purple Beret
+36160 Mercenary Helmet
+36161 SWAT Helmet
+36166 HAZE Helmet
+36167 Firefighter Helmet
+36169 Construction Helmet
+36185 Touque [Red]
+36186 Touque [Grey]
+36187 Touque [White]
+36188 Touque [Black]
+36189 Touque [Blue]
+36218 Swat Helmet [Open]
+36219 Mercenary Helmet [Open]
+36303 Mercenary Helmet [Tan]
+36304 Mercenary Helmet [Tan] [Open]
+36316 Farmer Hat [Red]
+36317 Farmer Hat [Black]
+36318 Farmer Hat [Brown]
+36383 Fisherman Hat
+36576 Cap
+36619 Rainbow Beret
+Masks
+36041 Gasmask
+36047 Military Balaclava
+36466 Biohazard Hood
+36592 Black Balaclava
+Glasses
+36031 Military Nightvision
+36051 Glasses
+36057 Snorkel
+36058 Snorkel
+36059 Snorkel
+36060 Snorkel
+36061 Snorkel
+36093 Monocle
+36366 Headlamp
+36468 Military Nightvision [Tan]
+36469 Civilian Nightvision
+Vests
+36042 Military Vest
+36052 Police Vest
+36162 Mercenary Vest
+36163 SWAT Vest
+36165 HAZE Vest
+36168 Civilian Vest
+36197 Sweater Vest [Red]
+36198 Sweater Vest [Grey]
+36199 Sweater Vest [White]
+36200 Sweater Vest [Black]
+36201 Sweater Vest [Blue]
+36202 Cotton Vest [Red]
+36203 Cotton Vest [Grey]
+36204 Cotton Vest [White]
+36205 Cotton Vest [Black]
+36206 Cotton Vest [Blue]
+36305 Mercenary Vest [Tan]
+36388 Leather Vest
+Backpacks
+36048 Military Backpack
+36054 Police Backpack
+36062 Diving Tank
+36158 Mercenary Backpack
+36159 SWAT Backpack
+36207 School Backpack [Red]
+36208 School Backpack [Grey]
+36209 School Backpack [White]
+36210 School Backpack [Black]
+36211 School Backpack [Blue]
+36212 Hiking Backpack [Khaki]
+36213 Hiking Backpack [Grey]
+36214 Hiking Backpack [White]
+36215 Hiking Backpack [Black]
+36216 Hiking Backpack [Brown]
+36389 Cloth Pack Mk.I
+36390 Cloth Pack Mk.II
+36391 Cloth Pack Mk.III
+36392 Cloth Pack Mk.IV
+36471 Mercenary Backpack [Tan]
+Shirts
+36044 Military Top
+36056 Police Top
+36154 Mercenary Top
+36157 SWAT Top
+36171 HAZE Top
+36173 Firefighter Top
+36175 Construction Top [Yellow]
+36177 Construction Top [Orange]
+36180 Sweater [Red]
+36181 Sweater [Grey]
+36182 Sweater [White]
+36183 Sweater [Black]
+36184 Sweater [Blue]
+36307 Farmer Top [White]
+36308 Farmer Top [Blue Plaid]
+36313 Farmer Top [Tan Plaid]
+36314 Farmer Top [Grey Plaid]
+36315 Farmer Top [Red]
+36319 Torn T-shirt [Red]
+36323 Torn T-shirt [Black]
+36324 Torn T-shirt [Blue]
+36385 Fisherman Top
+36386 Leather Top
+36394 Scrub Top
+36473 Mercenary Top [Tan]
+36575 Intelligence Top
+Pants
+36046 Military Bottom
+36055 Police Bottom
+36153 Mercenary Bottom
+36156 SWAT Bottom
+36170 HAZE Bottom
+36172 Firefighter Bottom
+36174 Construction Bottom [Yellow]
+36176 Construction Bottom [Orange]
+36190 Sweatpants [Khaki]
+36191 Sweatpants [Grey]
+36192 Sweatpants [White]
+36193 Sweatpants [Black]
+36194 Sweatpants [Brown]
+36306 Farmer Overalls [Jeans]
+36309 Farmer Overalls [Black]
+36310 Farmer Overalls [Olive]
+36311 Farmer Overalls [Blue]
+36312 Farmer Overalls [Grey]
+36320 Torn Bottoms [Khaki]
+36321 Torn Bottoms [Black]
+36322 Torn Bottoms [Brown]
+36384 Fisherman Overalls
+36387 Leather Bottom
+36393 Scrub Bottom
+36574 Intelligence Bottom
+Crafting Materials
+36009 Copper Coil
+36010 Industrial Coil
+36011 Scrap Metal
+36012 Military Drive
+36015 Polaris Rose
+36016 Wood
+36017 Crystal
+36045 Cloth
+36050 Broken Gasmask
+36084 Leather
+36085 Leather Bundle
+36088 Rope
+36092 Mechanical Lotus
+36121 Metal Chunks
+36155 Bevlar
+36164 Biohazard Fibers
+36195 Armored Plates
+36196 Paint Bucket
+36284 Tape
+36355 Metal Sheet
+36356 Gun Oil
+36358 Cotton Wool
+36370 Gunpowder
+36402 Sentry Barrel
+36403 Sentry Engine
+36404 Sentry Receiver
+36474 Log
+36586 Biohazard Roll
+36605 Can
+36618 Gun Parts
+Barricades
+36003 Barbed Wire
+36023 Snowberry Seeds
+36025 Carrot Seeds
+36027 Wheat Seeds
+36119 Cloth Seeds
+36120 Metal Seeds
+36279 Tanktrap
+36280 Wooden Door
+36281 Scrap Door
+36282 Armored Door
+36285 Bedroll [Red]
+36286 Bedroll [Grey]
+36287 Bedroll [White]
+36288 Bedroll [Black]
+36289 Bedroll [Brown]
+36290 Twig Ladder
+36291 Wooden Ladder
+36292 Cloth Plate
+36293 Wooden Crate
+36294 Scrap Locker
+36295 Armored Locker
+36296 Wooden Table
+36297 Wooden Chair
+36298 Wooden Bed [Red]
+36299 Wooden Bed [Grey]
+36300 Wooden Bed [White]
+36301 Wooden Bed [Black]
+36302 Wooden Bed [Blue]
+36338 Claim Banner [Red]
+36339 Claim Flag [Red]
+36340 Armored Locker [Display]
+36343 Claim Banner [Grey]
+36344 Claim Banner [White]
+36345 Claim Banner [Black]
+36346 Claim Banner [Blue]
+36347 Claim Flag [Grey]
+36348 Claim Flag [White]
+36349 Claim Flag [Black]
+36350 Claim Flag [Blue]
+36351 Wooden Library
+36352 Scrap Library
+36353 Armored Library
+36363 Small Generator
+36364 Large Generator
+36365 Oxygenator
+36369 C4
+36371 Light
+36372 Torch
+36405 Turret
+36406 Sentry
+36407 Spotlight
+36475 Clock
+36476 Wooden Bench
+36477 Wooden Planter Roof
+36478 Scrap Planter Roof
+36479 Armored Planter Roof
+36480 Sandbag
+36481 Weapon Case
+36482 Hay Bale
+36483 Carpet [White]
+36484 Carpet [Red]
+36485 Carpet [Grey]
+36486 Carpet [Black]
+36487 Carpet [Brown]
+36488 Planter
+36489 Campfire
+36490 Glass
+36491 One Way Glass
+36492 Industrial Wooden Crate
+36493 Wooden Plaque
+36494 Scrap Plaque
+36495 Note
+36496 Wooden Placard
+36497 Scrap Placard
+36498 Wooden Sign
+36499 Scrap Sign
+36500 Wooden Counter
+36501 Wooden Wardrobe
+36502 Wooden Shutter
+36503 Scrap Shutter
+36504 Armored Shutter
+36505 Wooden Gate
+36506 Scrap Gate
+36507 Armored Gate
+36508 Wooden Hatch
+36509 Scrap Hatch
+36510 Armored Hatch
+36511 Scrap Ladder
+36512 Wooden Shelf
+36513 Scrap Shelf
+36535 Horde Beacon
+36572 Cloth Mannequin
+36573 Scrap Mannequin
+36593 Pump Jack
+36609 "Reginald" Penguin
+36610 Black Penguin
+36611 Blue Penguin
+36612 Red Penguin
+36613 Armed Penguin
+36614 White Penguin
+36615 "Benedict" Penguin
+36616 Blindfolded Penguin
+36617 Donut Penguin
+Structures
+36217 Wooden Wall
+36220 Wooden Pillar
+36221 Wooden Floor
+36222 Wooden Roof
+36223 Scrap Wall
+36224 Scrap Pillar
+36225 Scrap Floor
+36226 Scrap Roof
+36227 Armored Wall
+36228 Armored Pillar
+36229 Armored Floor
+36230 Armored Roof
+36231 Wooden Stairs
+36232 Wooden Doorway
+36233 Wooden Garage
+36234 Wooden Window
+36235 Wooden Ramp Wall
+36236 Wooden Hole
+36237 Wooden Ramp
+36238 Wooden Corner
+36239 Wooden Corner
+36240 Triangular Wooden Roof
+36241 Triangular Wooden Floor
+36242 Wooden Post
+36243 Wooden Rampart
+36244 Triangular Wooden Hole
+36245 Scrap Ramp Wall
+36246 Scrap Garage
+36247 Scrap Doorway
+36248 Scrap Window
+36249 Scrap Post
+36250 Scrap Rampart
+36251 Scrap Stairs
+36252 Scrap Ramp
+36253 Scrap Corner
+36254 Scrap Corner
+36255 Scrap Hole
+36256 Triangular Scrap Hole
+36257 Triangular Scrap Roof
+36258 Triangular Scrap Floor
+36265 Armored Ramp Wall
+36266 Armored Doorway
+36267 Armored Window
+36268 Armored Garage
+36269 Armored Ramp
+36270 Armored Corner
+36271 Armored Corner
+36272 Armored Stairs
+36273 Armored Hole
+36274 Armored Post
+36275 Armored Rampart
+36276 Triangular Armored Floor
+36277 Triangular Armored Roof
+36278 Triangular Armored Hole
+Tools & Quest Items
+36001 Phone
+36006 Smoke Grenade
+36035 Fishing Rod
+36036 Wooden Rod
+36037 Seaward Fisher
+36040 Sharps fishingrod
+36049 Filter
+36064 Message in a bottle
+36065 Torn Note
+36077 Jerry Can
+36078 Large Jerry Can
+36087 Makeshift Jerry Can
+36090 Blowtorch
+36091 Wrench
+36101 Bronze Coin
+36102 Silver Coins
+36103 Gold Coins
+36104 Gold Nugget
+36105 Gold Ingot
+36118 Fertilizer
+36123 XP Book
+36179 Carjack
+36260 Pure Pearl
+36261 Daylight Pearl
+36262 Dawn Pearl
+36263 Dusk Pearl
+36264 Midnight Pearl
+36341 Binoculars [8x]
+36342 Binoculars [16x]
+36368 Detonator
+36373 Parachute
+36397 GPS
+36398 Compass
+36399 Chart
+36408 Makeshift Canteen
+36409 Canteen
+36411 Flashbang
+36412 Grenade
+36467 Snowball
+36470 Wooden Lockbox
+36578 Energized Snowball
+36561 Key
+36562 Key Blueprint
+36580 Stealy Wheely Automobiley
+36585 Vehicle Battery
+36587 Military Crate
+36601 Blue Intelligence
+36602 Black Intelligence
+Edible
+36021 Snowberry
+36022 Crushed Snowberry
+36024 Carrot
+36026 Wheat
+36033 Loaf
+36034 Moldy loaf
+36066 Raw Fish Meat
+36067 Cooked Fish Meat
+36068 Sakhalin Fish
+36069 Highland Fish
+36070 Clownfish
+36071 Goldfish
+36072 Black Sakana
+36073 Trout
+36074 Salmon
+36075 Eel
+36076 Swordfish
+36079 Frostberry Jam Sandwich
+36080 Raw Meat
+36081 Cooked Meat
+36082 Fish Sandwich
+36083 Meat Sandwich
+36100 Pepperoni Pizza
+36259 ???
+36414 Canned Beans
+36415 Karjalanpiirakka
+36416 Croissant
+36417 Burrito
+36418 MRE
+36419 Orange Juice
+36420 Bottled Water
+36421 Bottled Soda [The good one]
+36422 Bottled Soda [The bad one]
+36423 Bottled Milk
+36424 Canned Soda [The good one]
+36425 Tomato Soup
+36426 Canned Soda [The bad one]
+36427 Canned Sardines
+36428 Chocolate Bar
+36429 Snowberry Juice
+36430 Chicken Soup
+36431 Canned Salmon
+36432 Canned Energy Drink
+36433 Energy Bar
+36434 Candy Bar
+36435 Coconut Bar
+36436 Caramel Bar
+36437 Milk Carton
+36438 Apple Juice
+36439 Grape Juice
+Medical
+36354 Medkit
+36357 Splint
+36359 Adrenaline
+36360 Iodine Tablets
+36361 Bandage
+36362 Dressing
+Unobtainable
+36004 Barbed Wire Short
+36005 Barbed Wire Long
+36007 Rangefinder Handheld
+36008 Rangefinder Magazine
+36013 57mm Cannon
+36018 Boss Helmet
+36019 Boss Vest
+36020 Boss Top
+36063 AWP
+36089 HMG Beeb
+36094 Penguin
+36095 Carepackage
+36096 Infected top
+36097 Ghost
+36098 Shop
+36099 Invisibility
+36117 Frost Campfire Static #1
+36122 ATM
+36132 Military Top [Green]
+36133 Military Bottom [Green]
+36134 Military Vest [Green]
+36135 Military Helmet [Green]
+36136 Military Balaclava [Green]
+36137 Military Backpack [Green]
+36138 Quest Grenade
+36178 Mercenary Backpack [Admin]
+36283 Wooden Sliding Door
+36332 Crossbow Barrel
+36401 Devastator Magazine
+36515 Tactical Light [Shotgun]
+36520 Moses Grip
+36521 Moses Grip
+36522 Boss Bottom
+36523 Lucky Block
+36529 Powerplant Helmet
+36530 Powerplant Vest
+36531 Powerplant Bottoms
+36532 Powerplant Top
+36584 Penguin Lower
+36472 Mercenary Bottom [Tan]
+36579 Syringe
+36588 Mercenary Boss Bottom
+36589 Mercenary Boss Top
+36590 Mercenary Boss Helmet
+36591 Mercenary Boss Vest
+Vehicles
+36000 ZIS
+36001 Grey Paras
+36002 Cream Paras
+36003 Black Paras
+36004 Red Paras
+36005 White Paras
+36006 Grey Fifi
+36007 Black Fifi
+36008 Cream Fifi
+36009 Red Fifi
+36010 White Fifi
+36011 Grey Offender
+36012 Black Offender
+36013 Cream Offender
+36014 Red Offender
+36015 White Offender
+36016 Grey Traveler
+36017 Black Traveler
+36018 Cream Traveler
+36019 Red Traveler
+36020 White Traveler
+36021 Expeditioner
+36022 Grey Scout
+36023 Scout Police
+36024 Minecart #1
+36025 Rotor
+36026 Minecart #2
+36027 Katalina
+36028 Race Fifi
+36029 Ghost Paras
+36030 Hovercraft
+36031 Black Scout
+36032 Cream Scout
+36033 Red Scout
+36034 White Scout
+36035 Grey Fletcher
+36036 Black Fletcher
+36037 Cream Fletcher
+36038 Red Fletcher
+36039 White Fletcher
+36040 Grey Competitor
+36041 Black Competitor
+36042 Cream Competitor
+36043 Red Competitor
+36044 White Competitor
+36045 Bushwacker
+36046 Bus
+36047 Responder
+36048 Taxi
+36049 Police Van
+36050 Military Quad
+36051 Police Quad
+36052 Tractor
+36053 Aqua Offender
