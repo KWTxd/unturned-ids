@@ -1,0 +1,496 @@
+Handguns
+Handguns are good weapons for new players,they are easy to get ammunition.All handguns in this mod can bind hotkeys and semi pistols can fire during sprint.It's highly recommended to keep a handgun in your pocket to deal with zombies or unarmed players.
+
+Oakbear
+American pistol chambered in Magnum ammunition.
+40 Player Damage，99 Zombie Damage
+ID:30294
+Magazine ID:30256
+Can be found: Milita
+
+
+Accelerator
+American pistol chambered in Magnum ammunition.
+40 Player Damage，99 Zombie Damage
+ID:30274
+Magazine ID:30256
+Can be found: NPC Briefcase
+
+Monika
+Swiss pistol chambered in Pistol ammunition.
+34 Player Damage，90 Zombie Damage
+ID:30291 30292 30293
+Magazine ID:30265
+Can be found: Military,Craft from Vader/Coalition Catalysts(Vader/Coalition Variant)
+
+Tariq
+Iraqi pistol chambered in Pistol ammunition.
+28 Player Damage，90 Zombie Damage
+ID:30309
+Magazine ID:30265
+Can be found: Police
+
+Wasteland Falcon
+Israeli pistol chambered in Magnum ammunition.
+78 Player Damage，110 Zombie Damage
+ID:30312
+Magazine ID:30256
+Can be found: Airdrop,NPC Briefcase
+
+Defender
+Swiss machine pistol chambered in Pistol ammunition.
+25 Player Damage，90 Zombie Damage
+ID:30285
+Magazine ID:30265
+Can be found: Military
+
+Rasputin
+Soviet revolver chambered in Ace ammunition.
+30 Player Damage，90 Zombie Damage
+ID:30298
+Magazine ID:108
+Can be found: Civilian
+
+Anaconda
+American revolver chambered in Ace ammunition.
+72 Player Damage，110 Zombie Damage
+ID:30275
+Magazine ID:108
+Can be found: Airdrop,NPC Briefcase
+
+Shotguns
+Shotguns are best weapons for CQB,they chambered in vanilia kuwait shotgun shells
+
+Arnold
+American shotgun chambered in shotgun shells.
+18 Player Damage，18 Zombie Damage
+ID:30279
+Magazine ID:5127
+Can be found: Farm
+
+Supernova
+Italian shotgun chambered in shotgun shells.
+25 Player Damage，25 Zombie Damage
+ID:30306
+Magazine ID:5127
+Can be found: Police
+
+Anatolia
+Turkish shotgun chambered in shotgun shells.
+20 Player Damage，20 Zombie Damage
+ID:30276
+Magazine ID:5127
+Can be found: Military Special
+
+Carbines
+Back from vanilia game!Carbines are secondary weapons,they're great personal defence weapons when you equip a sniper rife in primary slot
+
+Eindringling
+German submachinegun chambered in SMG ammunition.
+25 Player Damage，90 Zombie Damage
+ID:30286
+Magazine ID:30272
+Can be found: Milita
+
+Skorpion
+Czech submachinegun chambered in SMG ammunition.
+24 Player Damage，90 Zombie Damage
+ID:30300
+Magazine ID:30272
+Can be found: Police
+
+Skorpion Silenced
+Czech submachinegun chambered in SMG ammunition.
+24 Player Damage，90 Zombie Damage
+ID:30301
+Magazine ID:30272
+Can be found:NPC Briefcase
+
+Vivianus
+American submachinegun chambered in SMG ammunition.
+20 Player Damage，90 Zombie Damage
+ID:30311
+Magazine ID:30272
+Can be found: Military
+
+Proninety
+Belgian submachinegun chambered in Proninety ammunition.
+30 Player Damage，90 Zombie Damage
+ID:30296
+Magazine ID:30266
+Can be found: Airdrop
+
+Honeybadger
+Swiss carbine chambered in Military ammunition.
+38 Player Damage，99 Zombie Damage
+ID:30287
+Magazine ID:30260
+Can be found: Military Special
+
+Krinknakov
+Soviet carbine chambered in Ranger ammunition.
+33 Player Damage，99 Zombie Damage
+ID:30288
+Magazine ID:30269
+Can be found: Milita Special
+
+Assault Rifles [6/26 Updated]
+Most popular weapon catalogue in unturned,they're powerful both in close and mid range.
+
+Skullcrusher
+American assault rifle chambered in Military ammunition.
+33 Player Damage，99 Zombie Damage
+ID:30302
+Magazine ID:30260
+Can be found: Military
+
+Skullcrusher Upgraded
+American assault rifle chambered in Military ammunition.
+33 Player Damage，99 Zombie Damage
+ID:30356
+Magazine ID:30260
+Can be found: Airdrop,NPC Briefcase
+
+Suncrack
+American assault rifle chambered in Military ammunition.
+43 Player Damage，99 Zombie Damage
+ID:30303 30304 30305
+Magazine ID:30261
+Can be found: Military,Craft from Coalition/Vader Suncracks (Coalition/Vader Variants)
+
+Swordfish
+German assault rifle chambered in Military ammunition.
+35 Player Damage，99 Zombie Damage
+ID:30308
+Magazine ID:30260
+Can be found: Military Special
+[6/26 Updated : Full Auto Mode]
+
+Swisskarabiner
+Swiss assault rifle chambered in Military ammunition.
+29 Player Damage，99 Zombie Damage
+ID:30307
+Magazine ID:30260
+Can be found: Airdrop，NPC Briefcase
+
+Swissgewehr
+Swiss assault rifle chambered in Military ammunition.
+38 Player Damage，99 Zombie Damage
+ID:30351
+Magazine ID:30260
+Can be found: Police
+
+Zubeknakov
+Soviet assault rifle chambered in Ranger ammunition.
+35 Player Damage，99 Zombie Damage
+ID:30313
+Magazine ID:30270
+Can be found: Milita
+
+Zubeknakov Upgraded
+Soviet assault rifle chambered in Ranger ammunition.
+35 Player Damage，99 Zombie Damage
+ID:30314
+Magazine ID:30269
+Can be found: Airdrop，NPC Briefcase
+
+Renegade
+Russian assault rifle chambered in Ranger ammunition.
+34 Player Damage，99 Zombie Damage
+ID:30299
+Magazine ID:30269
+Can be found: Milita Special
+
+Maplestrike
+American assault rifle chambered in Military ammunition.
+40 Player Damage，99 Zombie Damage
+ID:30352
+Magazine ID:30260
+Can be found: Craft from easter egg Maplestrike
+
+Maplestrike Upgraded
+American assault rifle chambered in Military ammunition.
+40 Player Damage，99 Zombie Damage
+ID:30353
+Magazine ID:30260
+Can be found: Military Special,NPC Briefcase,Airdrop,Horde Beacon
+
+Sniper Rifles [6/26 Updated]
+Including sharpshooter rifles and sniper rifles,they're suitable for long-range sniping
+
+Valentine
+Soviet sharpshooter rifle chambered in Subsonic ammunition.
+45 Player Damage，99 Zombie Damage
+ID:30310
+Magazine ID:30273
+Can be found: Milita
+[6/26 Updated: Full Auto Mode]
+
+Valentine Upgraded
+Soviet sharpshooter rifle chambered in Subsonic ammunition.
+45 Player Damage，99 Zombie Damage
+ID:30355
+Magazine ID:30273
+Can be found: Milita Special,NPC Briefcase,Airdrop
+
+Colonizer
+British battle rifle chambered in Rifle ammunition.
+75 Player Damage，99 Zombie Damage
+ID:30282
+Magazine ID:30252
+Can be found: Farm
+
+Palm Rifle
+Soviet battle rifle chambered in Rifle ammunition.
+70 Player Damage，99 Zombie Damage
+ID:30295
+Magazine ID:478
+Can be found: Craft
+
+Charon
+British sniper rifle chambered in Charon ammunition.
+115 Player Damage，200 Zombie Damage
+ID:30281
+Magazine ID:30251
+Can be found: Military Special
+
+Arbiter
+Russian sniper rifle chambered in Arbiter ammunition.
+120 Player Damage，200 Zombie Damage
+ID:30277
+Magazine ID:30249
+Can be found: Milita Special
+
+Arbiter Silenced
+Russian sniper rifle chambered in Arbiter ammunition.
+120 Player Damage，200 Zombie Damage
+ID:30278
+Magazine ID:30249
+Can be found: Craft from original arbiter
+
+Special Weapons
+Various of special weapons play an important part in all game periods
+
+Crossbow
+Crossbow chambered in Arrows
+55 Player Damage，99 Zombie Damage
+ID:30284
+Magazine ID:5031
+Can be found: Farm,Camp
+
+Compound Crossbow
+Compound crossbow chambered in Arrows
+85 Player Damage，150 Zombie Damage
+ID:30283
+Magazine ID:5031
+Can be found: Farm,Camp
+
+Blooddragon
+American Minigun chambered in Blooddragon ammunition.
+40 Player Damage，99 Zombie Damage
+ID:30280
+Magazine ID:30250
+Can be found: Deadzone Altars
+
+Lawlipop
+American Single-Used only rocket launcher.
+200 Player Damage，2200 Zombie Damage
+ID:30290
+Magazine ID:Can't Reload
+Can be found: Airdrop,NPC Briefcase,Horde Beacon,Military Special
+
+Lamentation
+Soviet rocket launcher chambered in Lamentation rockets.
+300 Player Damage，2000 Zombie Damage
+ID:30289
+Magazine ID:30253
+Can be found: Milita Special,Airdrop
+
+Purifier
+Soviet flamethrower chambered in Napalm ammunition.
+32 Player Damage，180 Zombie Damage
+ID:30297
+Magazine ID:30263
+Can be found: Milita Special,Airdrop,Horde Beacon
+
+
+
+
+
+All ID lists (For Magazines and Attachments)
+Items
+30200 Crossbow Suppressor
+30201 Honeybadger Suppressor
+30202 Military Extended Barrel
+30203 Military Flashhider
+30204 Military Muzzle Brake
+30205 Military Suppressor
+
+30206 Preattached Suppressor
+
+30207 Ranger Extended Barrel
+30208 Ranger Flashhider
+30209 Ranger Muzzle Brake
+30210 Ranger Suppressor
+30211 Valentine Suppressor
+
+30212 Bipod
+30213 Horizontal Grip
+30214 Skeleton Grip
+30215 Stable Grip
+30216 Vertical Grip
+
+30217 Anatolia Iron Sights
+30218 Honeybadger Iron Sights
+30219 Lamentation Iron Sights
+30220 Proninety Iron Sights
+30221 Renegade Iron Sights
+30222 Skorpion Iron Sights
+30223 Suncrack Iron Sights
+30224 Vivianus Iron Sights
+
+30225 Civilian Hunting Scope
+30226 Civilian Shotgun Holographic Sight
+30227 Colonizer Scope
+30228 Military 8x Scope
+30229 Military 16x Scope
+30230 Military Assault Scope
+30231 Military Holographic Sight
+30232 Military Nightvision Scope
+30233 Military Reflex Sight
+30234 Military Tactical Scope
+
+30235 Ranger 8x Scope
+30236 Ranger 16x Scope
+30237 Ranger Assault Scope
+30238 Ranger Holographic Sight
+30239 Ranger Nightvision Scope
+30240 Ranger Reflex Sight
+30241 Ranger Tactical Scope
+
+30242 Supernova Reflex Sight
+30243 Swordfish Scope
+
+30244 Supernova Rangefinder
+30245 Tactical Bayonet
+30246 Tactical Laser
+30247 Tactical Light
+30248 Tactical Rangefinder
+
+30249 Arbiter Magazine
+30250 Blooddragon Box
+30251 Charon Magazine
+30252 Colonizer Magazine
+30253 Lamentation Rocket
+30254 Lawlipop Rocket
+30255 Magnum Extended Magazine
+30256 Magnum Magazine
+30257 Makeshift Napalm Tank
+
+
+30258 Military Drum
+30259 Military Extended Magazine
+30260 Military Magazine
+30261 Military Short Magazine
+30262 Military Tracer Magazine
+30263 Napalm Tank
+30264 Pistol Extended Magazine
+30265 Pistol Magazine
+
+30266 Proninety Magazine
+30267 Ranger Drum
+30268 Ranger Extended Magazine
+30269 Ranger Magazine
+30270 Ranger Short Magazine
+30271 Ranger Tracer Magazine
+30272 SMG Magazine
+30273 Subsonic Magazine
+
+30274 Accelerator
+30275 Anaconda
+30276 Anatolia
+30277 Arbiter
+30278 Arbiter Silenced
+30279 Arnold
+30280 Blooddragon
+30281 Charon
+30282 Colonizer
+30283 Compound Crossbow
+30284 Crossbow
+30285 Defender
+30286 Eindringling
+30287 Honeybadger
+30288 Krinknakov
+30289 Lamentation
+30290 Lawlipop
+30291 Monika
+30292 Monika Coalition
+30293 Monika Vader
+30294 Oakbear
+30295 Palm Rifle
+30296 Proninety
+30297 Purifier
+30298 Rasputin
+30299 Renegade
+30300 Skorpion
+30301 Skorpion Silenced
+30302 Skullcrusher
+30303 Suncrack
+30304 Suncrack Coalition
+30305 Suncrack Vader
+30306 Supernova
+30307 Swisskarabiner
+30308 Swordfish
+30309 Tariq
+30310 Valentine
+30311 Vivianus
+30312 Wasteland Falcon
+30313 Zubeknakov
+30314 Zubeknakov Upgraded
+30315 Quest Beacon
+
+
+Spawn Tables
+30316 Airdrop Low
+30317 Airdrop High
+30318 Suitcase Common
+30319 Suitcase Rare
+30320 Suitcase Epic
+30321 Suitcase Legendary
+30322 Suitcase Accelerator
+30323 Suitcase Accelerator Magazine
+30324 Farm Gun
+30325 Farm Magazine
+30326 Camp Gun
+30327 Camp Magazine
+30328 Businessman
+30329 Civilian Gun
+30330 Civilian Magazine
+30331 Deadzone Gun
+30332 Deadzone Magazine
+30333 Horde Supply
+30334 Horde Weapon
+30335 Police Gun
+30336 Police Magazine
+30337 Military Gun
+30338 Military Magazine
+30339 Military Special Gun
+30340 Military Special Magazine
+30341 Military Sight
+30342 Military Grip
+30343 Military Barrel
+30344 Military Tactical
+30345 Ranger Gun
+30346 Ranger Magazine
+30347 Ranger Special Gun
+30348 Ranger Special Magazine
+30349 Ranger Sight
+30350 Ranger Barrel
+
+2022/6/26 Updated
+30351 Swissgewehr
+30352 Maplestrike
+30353 Maplestrike Upgraded
+30354 Maplestrike Iron Sights
+30355 Valentine Upgraded
+30356 Skullcrusher Upgraded
