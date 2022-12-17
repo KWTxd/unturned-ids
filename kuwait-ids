@@ -1,0 +1,717 @@
+Weapons + Attachments + Throwables
+
+
+5000 - Monarchist
+5001 - Monarchist Magazine
+5002 - Monarchist Irons
+5003 - Suncrack
+5004 - Suncrack Irons
+5005 - Mirage
+5006 - Mirage Magazine
+5007 - Mirage Scope
+5008 - Avenger
+5009 - Catalyst
+5010 - Catalyst Magazine
+5011 - Al-Musaytir
+5012 - Duststorm
+5013 - Militia Magazine
+5014 - Duststorm Irons
+5015 - Teklowvka
+5016 - Snayperska
+5017 - Snayperska Magazine
+5018 - Snayperska Irons
+5019 - Ekho
+5020 - Ekho Irons
+5021 - Oakbear
+5022 - Viper
+5023 - Viper Irons
+5024 - Desert Falcon
+5025 - Ace
+5026 - Paintball Gun
+5027 - Compound Bow
+5028 - Bow Sights
+5029 - Crossbow
+5030 - Crossbow Sights
+5031 - Arrow
+5032 - Colonizer
+5033 - Colonizer Clips
+5034 - Colonizer Irons
+5035 - Galvenizer
+5036 - Galvenizer Battery
+5037 - Galvenizer Battery A
+5038 - Galvenizer Battery D
+5039 - Galvenizer Battery O
+5040 - Galvenizer Battery S
+5041 - Palm Rifle
+5042 - Coalition Suncrack
+5043 - Vader Suncrack
+5044 - Pulse Magazine
+
+5049 - Slipper
+5050 - Headband
+5051 - Scimitar
+5052 - Cucumber Club
+5053 - Makeshift Light
+5054 - Arbiter Suppressor
+5055 - Makeshift Scope
+5056 - Tactical Light
+5057 - Tactical Laser
+5058 - Rangefinder
+5059 - Adaptive Chambering
+5060 - Bayonet
+5061 - Vertical Grip
+5062 - Horizontal Grip
+5063 - Bipod
+5064 - Kobra Sight
+5065 - 7x Scope
+5066 - Dot Sight
+5067 - Halo Sight
+5068 - Chevron Scope
+5069 - Cross Scope
+5070 - 8x
+5071 - 16x
+5072 - Ranger Suppressor
+5073 - Ranger Muzzle
+5074 - Ranger Barrel
+5075 - Military Suppressor
+5076 - Military Muzzle
+5077 - Military Barrel
+5078 - Makeshift Muffler
+5079 - Butterfly Knife
+5080 - Machete
+5081 - Sledgehammer
+5082 - Saw
+5083 - Crowbar
+5084 - Hammer
+5085 - Shovel
+5086 - Pickaxe
+5087 - Oil Bucket
+5088 - Camp Axe
+5089 - Pocketknife
+5090 - Paddle
+5091 - Kitchen Knife
+5092 - Butcher Knife
+5093 - Fire Axe
+-
+5095 - Baseball Bat
+5096 - Military Knife
+5097 - Pitchfork
+5098 - Scythe
+5099 - Chainsaw
+5100 - Frying Pan
+5101 - Baton
+-
+5103 - Flashlight
+5104 - Puzzle Bomb
+5105 - Grenade
+5106 - Charge
+5107 - Military Nightvision Scope
+5108 - Makeshift Bat
+5109 - EMP Grenade
+5110 - Spectral Scimitar
+5111 - Spectral Mattock
+5112 - Arc Welder
+5113 - Kuwait Black Smoke
+5114 - Kuwait Green Smoke
+5115 - Kuwait Grey Smoke
+5116 - Kuwait Tan Smoke
+5117 - Kuwait White Smoke
+5118 - Pulsette Magazine
+5119 - Desert Falcon Magazine
+5120 - Avenger Magazine
+5121 - Ekho Magazine
+5122 - Swissgewher
+5123 - Swissgewher Irons
+5124 - Accelerator
+5125 - Accelerator Suppressor
+5126 - Hanlon-Reach
+5127 - Shells
+5128 - Slugs
+5129 - Pearlshot
+5130 - Batteryshot
+5131 - Broom
+5132 - Glass Bottle
+5133 - 2x4 Board
+5134 - Newspaper
+5135 - Flare Gun
+5136 - Flare Shell
+5137 - Brass Knuckles
+5138 - Rattlesnake
+5139 - Rattlesnake Barrel
+5140 - Arbiter
+5141 - Chuck
+5142 - Chuck Barrel
+5143 - Chuck Railing
+5144 - Chuck Body
+5145 - Chuck Bullet
+5146 - Ammo Pouch
+5147 - Coalition Catalyst
+5148 - Vader Catalyst
+5149 - Pile of Bullets
+5150 - Outlands Turret
+5151 - Outlands Rockets
+5152 - Fakerstrike
+
+
+Food + Water
+5201 - Cucumber
+5202 - Dates
+5203 - Milk Date Cake
+5204 - Garden Salad
+5205 - Shawarma
+5206 - Chocolate Milk
+5207 - Cucumber_Water
+5208 - Bottled Oil
+5209 - Cheese
+5210 - Carrot
+5211 - Corn
+5212 - Lettuce
+5213 - Potato
+5214 - Tomato
+5215 - Wheat
+5216 - Bread
+5217 - Eggs
+5218 - Chips
+5219 - Candy Bar
+5220 - Chocolate Bar
+5221 - Energy Bar
+5222 - Granola Bar
+5223 - Apple Juice
+5224 - Grape Juice
+5225 - Canned Cola
+5226 - Canned Soda
+5227 - Canned Beans
+5228 - Canned Beef
+5229 - Canned Pasta
+5230 - Canned Sardines
+5231 - Canned Chicken Soup
+5232 - Canned Tomato Soup
+5233 - Canned Tuna
+5234 - Bottled Coconut
+5235 - Bottled Energy
+5236 - Bottled Water
+5237 - Milk
+5238 - Orange Juice
+5239 - Bottled Cola
+5240 - Bottled Soda
+5241 - MRE
+5242 - Canned Bacon
+5243 - Canned Ham
+5244 - Electro-Fish
+5245 - Ghost-Fish
+5246 - Fred The Fish
+5247 - Raw Fish
+5248 - Cooked Fish
+5249 - Grilled Cheese
+5250 - Fish Sandwich
+5251 - Indigo Berries
+5252 - Cake
+5253 - Dough
+5254 - Doughnut
+5255 - Waffle
+5256 - Pancake
+5257 - Maple Syrup
+5258 - Venison (Meat)
+5259 - Glue
+5260 - Chemicals
+5261 - Plastic Flask
+5262 - Carrot Seed
+5263 - Corn Seed
+5264 - Lettuce Seed
+5265 - Potato Seed
+5266 - Tomato Seed
+5267 - Wheat Seed
+5268 - Indigo Berry Seed
+5269 - Cooked Meat
+5270 - Bottled Air
+5271 - Sunpomme
+5272 - Evanesce Flask
+5273 - Brain Cereal
+5274 - Sunpomme 3/4
+5275 - Sunpomme 1/2
+5276 - Sunpomme 1/4
+5277 - Red Herring
+5278 - Holy Mackeral
+5279 - French Fish
+5280 - Tuna Fish
+5281 - Cookies
+5282 - Chili Pepper
+5283 - Spicy Shawarma
+5284 - Spicy Fish Sandwich
+5285 - Spiced Chocolate
+
+5287 - Tryhard Fish
+5288 - Baby Fish
+5289 - Hypertech Fish
+Clothing
+5301 - Desert Military Top
+5302 - Desert Military Bottom #1
+5303 - Desert Vest #1
+5304 - Desert Rucksack
+5305 - Desert Coyotepack
+5306 - Desert SpecOps Top
+5307 - Desert SpecOps Bottom
+5308 - Police Top
+5309 - Police Bottom
+5310 - Police Beret
+5311 - Rusted Talon
+5312 - Militia Scarf
+5313 - 
+5314 - 
+5315 - 
+5316 - 
+5317 - 
+5318 - 
+5319 - 
+5320 - 
+5321 - 
+5322 - 
+5323 - 
+5324 - 
+5325 - 
+5326 - 
+5327 - White Ghatra
+5328 - Plaid Ghatra
+5329 - Traditional Gown Top
+5330 - Traditional Gown Bottom
+5331 - Industry Top
+5332 - Industry Bottom
+5333 - Caracal Mesh Replacement
+5334 - Plastic Gasmask
+5335 - Whitecat Mesh Replacement
+5336 - Talon #2
+5337 - Talon #3
+5338 - Leather Top
+5339 - Leather Bottom
+5340 - Leather Daypack
+5341 - Spectral Top
+5342 - Spectral Bottom
+5343 - Spectral Helmet
+5344 - Big Man Suit
+5345 - Samantha's Top
+5346 - Kyra's Outfit
+5347 - Male 07 Suit
+5348 - Weston's Outfit
+5349 - Ashley's Outfit
+5350 - Coalition Heavy Vest
+5351 - Coalition Backpack
+5352 - Halloween Spectral Top
+5353 - Halloween Spectral Bottom
+5354 - Halloween Spectral Helmet
+
+5358 - Golden Ghatra
+5359 - Unobtainable Boss Top
+
+
+Structures + Buildables
+5401 - Rope Ladder
+5402 - Palm Crate
+5403 - Palm Barricade
+5404 - Bonfire
+5405 - Puzzle Trophy
+5406 - Small Dinosaur Trophy
+5407 - Large Dinosaur Trophy
+5408 - Electric Fence
+5409 - Burgan Oil Fire
+5410 - Cucumber Spikes
+5411 - Carepackage
+5412 - Palm Floor
+5413 - Palm Triangular Floor
+5414 - Palm Roof
+5415 - Palm Triangular Roof
+5416 - Palm Pillar
+5417 - Palm Wall
+5418 - Palm Doorway
+5419 - Palm Window
+5420 - Palm Garage
+5421 - Palm Stairs
+5422 - Palm Ramp
+5423 - Palm Hole
+5424 - Palm Post
+5425 - Palm Rampart
+5426 - Palm Rampwall
+5427 - Brick Pillar
+5428 - Brick Wall
+5429 - Brick Doorway
+5430 - Brick Window
+5431 - Brick Garage
+5432 - Brick Post
+5433 - Brick Rampart
+5434 - Brick Rampwall
+5435 - Spectral Floor
+5436 - Spectral Triangular Floor
+5437 - Spectral Roof
+5438 - Spectral Triangular Roof
+5439 - Spectral Pillar
+5440 - Spectral Wall
+5441 - Spectral Doorway
+5442 - Spectral Window
+5443 - Spectral Garage
+5444 - Spectral Stairs
+5445 - Spectral Ramp
+5446 - Spectral Hole
+5447 - Spectral Post
+5448 - Spectral Rampart
+5449 - Spectral Rampwall
+5450 - Metal Hatch
+5451 - Palm Door
+5452 - Jail Door
+5453 - Metal Door
+5454 - Vault Door
+5455 - Palm Fortification
+5456 - Bars Fortifcation
+5457 - Palm Hammock
+5458 - Weak Glass
+5459 - Bulletproof Glass
+5460 - One Way Glass
+5461 - Palm Square Table
+5462 - Palm Rectangular Table
+5463 - Palm Circular Table
+5464 - Palm Chair
+5465 - Pillow
+5466 - Wildflower Bouquet
+5467 - Shark Plushie (Apex Predator)
+5468 - Big Pillow #1
+5469 - Weapon Beacon
+5470 - Supply Beacon
+5471 - Palm Sign
+5472 - Palm Spikes
+5473 - Treasure
+5474 - Palm Hatch
+5475 - Palm Gate
+5476 - Palm "Locker"
+5477 - Big Pillow #2
+5478 - Planter
+5479 - Plot
+5480 - Plot Roof
+5481 - Plot Triangular Roof
+5484 - Shiny Treasure
+5485 - RGB Treasure
+5486 - Keypad Vault
+5487 - Palm Torch
+5488 - Palm Counter
+5489 - White Carpet
+5490 - Caracal Plushie
+5491 - Eye Trophy
+
+
+Supplies + Misc.
+5501 - Palm Fibre
+5502 - Stack o' Bricks
+5503 - Bag o' Bricks
+5504 - Wildflowers
+5505 - Briefcase
+5506 - Mutated Cucumber
+5507 - Plastic Sheets
+5508 - Seaweed Sheets
+5509 - 1 Dinar
+5510 - 5 Dinars
+5511 - 10 Dinars
+5512 - 20 Dinars
+5513 - 10 Dinar Stack
+5514 - 20 Dinar Stack
+5515 - Plastic Filter
+5516 - Palm Glider
+5517 - Fishing Rod
+5518 - Bayonet Blueprint
+5519 - Binoculars
+5520 - Rag
+5521 - Bandage
+5522 - Dressing
+5523 - Medkit
+5524 - Suturekit
+5525 - Bloodbag
+5526 - Vitamins
+5527 - Cough Syrup
+5528 - Tablets
+5529 - Painkillers
+5530 - Antibiotics
+5531 - Vaccine
+5532 - Adrenaline
+5533 - Morphine
+5534 - Splint
+5535 - Gas Can
+5536 - Rope
+5537 - Tape
+5538 - Can
+5539 - Plastic Jerry Can
+5540 - Pearl
+5541 - Fiberglass Fishing Rod
+5542 - Fiberglass Rod
+5543 - Fiberglass Caster
+5544 - Soft Handle
+5545 - Blue Module
+5546 - Blue Batteries
+5547 - Orange Module
+5548 - Orange Batteries
+5549 - Evanesce Pockets
+5550 - Armour Plate
+5551 - Spectral Stone
+5552 - Spectral Cloth
+5553 - Spectral Gauze
+-
+5556 - Capacitor Crate
+5557 - Palm Gas Can
+5558 - Gunpowder
+5559 - Fertilizer
+5560 - Coins
+5561 - Sapphire
+5562 - Diamond
+5563 - Emerald
+5564 - Ruby
+5565 - Midnight Pearl
+5566 - Pink Pearl
+5567 - Electronic Components
+5568 - Calculator
+5569 - PDA (Direction Mode)
+5570 - Books
+5571 - Bamboo Rod
+5572 - PDA (Building Mode)
+
+All Overrides
+5601 - Black Daypack
+5602 - Blue Daypack
+5603 - Green Daypack
+5604 - Orange Daypack
+5605 - Purple Daypack
+5606 - Red Daypack
+5607 - White Daypack
+5608 - Yellow Daypack
+5609 - Diving Tank/Wetsuit Tank
+5610 - Black Dufflebag
+5611 - Blue Dufflebag
+5612 - Green Dufflebag
+5613 - Orange Dufflebag
+5614 - Purple Dufflebag
+5615 - Red Dufflebag
+5616 - White Dufflebag
+5617 - Yellow Dufflebag
+5618 - Spec Ops Pack
+5619 - Black Travelpack
+5620 - Blue Travelpack
+5621 - Green Travelpack
+5622 - Orange Travelpack
+5623 - Purple Travelpack
+5624 - Red Travelpack
+5625 - White Travelpack
+5626 - Yellow Travelpack
+
+5630 - Snorkel
+5631 - Headlamp
+5632 - Civi NVG
+5633 - Mili NVG
+
+5637 - Desert Beret
+5638 - Black Cap
+5639 - Blue Cap
+5640 - Green Cap
+5641 - Orange Cap
+5642 - Purple Cap
+5643 - Red Cap
+5644 - White Cap
+5645 - Yellow Cap
+5646 - Chef Hat
+5647 - Construction Helmet
+5648 - Farmer Hat
+5649 - Firefighter Helmet
+5650 - Fishing Hat
+5651 - Desert Helmet
+5652 - Spec Ops Helmet
+5653 - Spec Ops Beret
+
+5656 - Black Balaclava
+5657 - Blue Balaclava
+5658 - Green Balaclava
+5659 - Orange Balaclava
+5660 - Purple Balaclava
+5661 - Red Balaclava
+5662 - White Balaclava
+5663 - Yellow Balaclava
+5664 - Earpiece
+
+5668 - Cargo Pants
+5669 - Cargo Shorts
+5670 - Chef Bottom
+5671 - Corduroy Pants
+5672 - Corduroy Shorts
+5673 - Diving Bottom/Wetsuit Bottom
+5674 - Farmer Bottom
+5675 - Firefighter Bottom
+5676 - Fishing Bottom
+5677 - Grocer Bottom
+5678 - Outfit Jeans
+5679 - Work Jeans
+5680 - Khaki Pants
+5681 - Khaki Shorts
+5682 - Mechanic Bottom
+5683 - Medic Bottom
+5684 - Desert Military Bottom
+5685 - Thief Bottom
+5686 - Tracksuit Bottom
+5687 - Trouser Pants
+5688 - Trouser Shorts
+5689 - Black Trunks
+5690 - Blue Trunks
+5691 - Green Trunks
+5692 - Orange Trunks
+5693 - Purple Trunks
+5694 - Red Trunks
+5695 - White Trunks
+5696 - Yellow Trunks
+
+5700 - Chef Top
+5701 - Construction Top
+5702 - Diving Top/Wetsuit Top
+5703 - Farmer Top
+5704 - Firefighter Top
+5705 - Fishing Top
+5706 - Grocer Top
+5707 - Black Hoodie
+5708 - Blue Hoodie
+5709 - Green Hoodie
+5710 - Orange Hoodie
+5711 - Purple Hoodie
+5712 - Red Hoodie
+5713 - White Hoodie
+5714 - Yellow Hoodie
+5715 - Mechanic Top
+5716 - Medic Top
+5717 - Plaid Shirt
+5718 - Black Shirt
+5719 - Blue Shirt
+5720 - Green Shirt
+5721 - Orange Shirt
+5722 - Purple Shirt
+5723 - Red Shirt
+5724 - White Shirt
+5725 - Yellow Shirt
+5726 - Black T-Shirt
+5727 - Blue T-Shirt
+5728 - Green T-Shirt
+5729 - Orange T-Shirt
+5730 - Purple T-Shirt
+5731 - Red T-Shirt
+5732 - White T-Shirt
+5733 - Yellow T-Shirt
+5734 - Thief Top
+5735 - Tracksuit Top
+
+5739 - Desert Military Vest
+5740 - Black Scarf
+5741 - Civilian Vest
+5742 - Police Vest
+5743 - Spec Ops Vest
+
+
+
+5747 - Barbedwire
+5748 - Black Bedroll
+5749 - Blue Bedroll
+5750 - Green Bedroll
+5751 - Orange Bedroll
+5752 - Purple Bedroll
+5753 - Red Bedroll
+5754 - White Bedroll
+5755 - Yellow Bedroll
+5756 - Book
+5757 - Cagelight
+5758 - Caltrop
+5759 - Claim
+5760 - Clock
+5761 - Cooler
+5762 - Couch
+5763 - Blue
+5764 - Green
+5765 - Orange
+5766 - Purple
+5767 - Red
+5768 - Yellow
+5769 - Metal Doubledoor
+5770 - Barbedwire Fence
+5771 - Metal Flag
+5772 - Blue Flare
+5773 - Green Flare
+5774 - Orange Flare
+5775 - Purple Flare
+5776 - Red Flare
+5777 - Yellow Flare
+5778 - Fridge
+5779 - Metal Gate
+5780 - Industrial Generator
+5781 - Portable Generator
+5782 - Metal Ladder
+5783 - Metal Library
+5784 - Locker
+5785 - Note
+5786 - Oil Pump
+5787 - Oxygenator
+5788 - Metal Placard
+5789 - Metal Plaque
+5790 - Metal Rifle Rack
+5791 - Fuel Container
+5792 - Water Container
+5793 - Sandbag
+5794 - Neutral Sentry
+5795 - Friendly Sentry
+5796 - Hostile Sentry
+5797 - Metal Shutter
+5798 - Metal Sign
+5799 - Snare
+5800 - Spotlight
+5801 - Stereo
+5802 - Metal Circular Table
+5803 - Metal Rectangular Table
+5804 - Metal Square Table
+5805 - Tanktrap
+5806 - Metal Trophy Case
+5807 - Metal Wardrobe
+5808 - Plastic Mannequin
+
+
+Vehicles
+5000 - Police Truck
+5001 - Black Stallion
+5002 - Blue Stallion
+5003 - Green Stallion
+5004 - Orange Stallion
+5005 - Purple Stallion
+5006 - Red Stallion
+5007 - White Stallion
+5008 - Yellow Stallion
+5009 - Police Stallion
+5010 - Duneslayer
+5011 - Racing Ship
+5012 - Storage Ship
+5013 - Black Land Explorer
+5014 - Blue Land Explorer
+5015 - Green Land Explorer
+5016 - Orange Land Explorer
+5017 - Purple Land Explorer
+5018 - Red Land Explorer
+5019 - White Land Explorer
+5020 - Yellow Land Explorer
+5021 - Olive Land Explorer
+5022 - Pink Stallion RC
+5023 - Black Sedan
+5024 - Blue Sedan
+5025 - Green Sedan
+5026 - Orange Sedan
+5027 - Purple Sedan
+5028 - Red Sedan
+5029 - White Sedan
+5030 - Yellow Sedan
+5031 - Black Truck
+5032 - Olive Truck
+5033 - Red Truck
+5034 - White Truck
+5035 - Desert Tank
+5036 - Desert Humvee
+5037 - Sandspitter
+5038 - Desert Orca
+5039 - Sunset Sunfish
+5040 - Pirate Sunfish
+5041 - Navy Stallion RC
+5042 - Orange Stallion RC
+5043 - Bus
+5044 - Firetruck
+5045 - The Classic
