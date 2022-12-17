@@ -1,7 +1,6 @@
 # unturned-ids
 Use Raw/Blame and CTRL+F for the best experience
 # Mods
-Mods Used:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1232252658
 https://steamcommunity.com/sharedfiles/filedetails/?id=2069342497
 https://steamcommunity.com/sharedfiles/filedetails/?id=2683620106
