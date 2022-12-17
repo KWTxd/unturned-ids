@@ -1,0 +1,33 @@
+--ID--
+
+| ITEM |
+
+Barrel : [Blue] 20000 | [Green] 20001 | [Grey] 20002 | [Orange] 20003 | [Red] 20004 | [Beige] 20012 | [Black] 20013 | [Brown] : 20014 | [White] : 20024
+Nuclear Waste : 20005
+Oil : 20006
+Fuel : 20007
+Plastic : 20008
+Emptybottle : 20009
+Water : 20010
+Chemical product : 20011
+Container : [Blue] 20015 | [Green] 20016 | [Grey] 20017 | [Orange] 20018 | [Red] 20019 | [Beige] 20020 | [Black] 20021 | [Brown] : 20022 | [White] : 20023
+Container Renforced : [Blue] 20025 | [Green] 20026 | [Grey] 20027 | [Orange] 20028 | [Red] 20029 | [Beige] 20030 | [Black] 20031 | [Brown] : 20032 | [White] : 20033
+
+
+| RESOURCE |
+
+Barrel : [OrangeNuclear] 20000 | [GreyOil] 20001 | [RedFuel] 20002 | [BlueWater] 20003 | [GreenChemicals] 20004
+
+
+| SPAWN |
+
+Barrel resource : [OrangeNuclear] 20000 | [GreyOil] 20001 | [RedFuel] 20002 | [BlueWater] 20003 | [GreenChemicals] 20004
+
+| OBJECT |
+
+Factory0 : [Blue] 20000 | [Red] 20001 (Pako's Objects Pack)
+Factory1 : 20002 (Pako's Objects Pack)
+Shop0 : 20003
+Gagare0 : 20004
+Gagare1 : 20005
+Factory2 : [Black] 20006 | [Brown] 20007
