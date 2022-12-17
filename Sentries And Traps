@@ -1,0 +1,44 @@
+Sentry II
+ID: Friendly: 48601 Neutral: 48602 Hostile: 48603
+Material: AnyTypesVanillaSentry + TacticalLaser + GPS
++ VehicleBattery + (Tool)Blowtorch (Crafting III)
+	Sentry II (Infinite Ammo)
+ID: Friendly: 48604 Neutral: 48605 Hostile: 48606
+Material: AnyTypesSentryII + Hell'sFury + 2 AdaptiveChambering
++ Carjack + (Tool)Blowtorch (Crafting III)
+	Flat Sentry
+ID: Friendly: 48607 Neutral: 48608 Hostile: 48609
+Material: AnyTypesSentryII
+	Flat Sentry (Infinite Ammo)
+ID: Friendly: 48610 Neutral: 48611 Hostile: 48612
+Material: AnyTypesFlatSentry + Hell'sFury + 2 AdaptiveChambering
++ Carjack + (Tool)Blowtorch (Crafting III)　or　AnyTypesInfiniteAmmoSentryII
+Traps
+
+
+	Propeller Trap
+ID: 48613
+Material: PortableGenerator + Sledgehammer + Machete + Scythe + Nails
++ (Tool)Blowtorch (Crafting III)
+	Tripwire Trap
+ID: 48615
+Material: 20GaugeShells + Wire + (Tool)Blowtorch (Crafting II)
+	Tesla Fence
+ID: 48616
+Material: VehicleBattery + 4 Wire + 10 MetalScrap + (Tool)Blowtorch (Crafting III)
+	Harvester
+ID: Green: 48617 Red: 48618
+Material: PortableGenerator + Rake + Scythe + 10 MetalScrap + (Tool)Blowtorch (Crafting III)
+	Buzzsaw
+ID: 48621
+Material: Chainsaw + PortableGasCan + 10 MetalScrap + Nails + (Tool)Blowtorch (Crafting III)
+
+Not craftable
+	Deadly Propeller Trap
+ID: 48614		Deadly Tesla Fence
+ID: 48619
+	Deadly Harvester
+ID: 48620		Deadly Buzzsaw
+ID: 48622
+- All non-craftable traps deal instant death damage.
+- Recommended to use for making obstacle course.
